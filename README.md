@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, sou a Daniela Roberta dos Santos 👩‍💻
 
-<!--
-**Danniesantos/Danniesantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formada em Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+🔧 Tecnologias que uso:
+- Java | Spring Boot | APIs REST | MongoDB | Docker | Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Projetos em destaque:
+- [Cadastro de Usuários](https://github.com/Danniesantos/usuario): API REST com Spring Boot e PostgreSQL.
+- [Agendador de Tarefas](https://github.com/Danniesantos/agendador-tarefas): Microserviço com integração via OpenFeign.
+- [BFF- agendador de tarefas](https://github.com/Danniesantos/bff-agendador-tarefas): Microserviço com integração via OpenFeign.
+
+📬 Contato: danielardesantos@gmail.com | [LinkedIn](https://www.linkedin.com/in/daniela-santos-49b434222/)
