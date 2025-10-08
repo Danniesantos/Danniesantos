@@ -12,7 +12,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
-![Mockito Logo](https://raw.githubusercontent.com/mockito/mockito/main/logo/mockito_logo.png)
+![Mockito](https://img.shields.io/badge/Mockito-ff69b4?logo=mockito&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 ---
