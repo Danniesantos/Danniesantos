@@ -31,7 +31,7 @@
 ---
 
 ## 🚀 Aprendizados recentes
-- Finalizei curso de ** Java com Spring Boot **.  
+- Finalizei curso de **Java com Spring Boot**.  
 - Desenvolvendo projetos com **Spring Boot, OpenFeign e Docker**.  
 - Estudando **testes unitários com JUnit** e boas práticas de código.
 
