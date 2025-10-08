@@ -31,7 +31,7 @@
 ---
 
 ## 🚀 Aprendizados recentes
-- Finalizei curso de **Java com Spring Boot**.  
+- Finalizei curso de **[Java com Spring Boot** - **Janauta Academy](https://hotmart.com/pt-br/club/clube-da-javanauta/product/4288798/certificate/98a30d95-a0d8-495d-9a0f-0cca34c605eb--1592553028/validate.)** 
 - Desenvolvendo projetos com **Spring Boot, OpenFeign e Docker**.  
 - Estudando **testes unitários com JUnit** e boas práticas de código.
 
