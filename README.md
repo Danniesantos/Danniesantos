@@ -20,7 +20,7 @@
 ## 📂 Projetos em destaque
 
 - **[Cadastro de Usuários](https://github.com/Danniesantos/usuario)**  
-  API REST desenvolvida com **Spring Boot** e **PostgreSQL**, incluindo CRUD completo e documentação com **Swagger**.
+  API REST desenvolvida com **Spring Boot** e **PostgreSQL**, incluindo CRUD completo e documentação com **Swagger**, testes unitários com **JUnit5** e **Mockito**.
 
 - **[Agendador de Tarefas](https://github.com/Danniesantos/agendador-tarefas)**  
   Microserviço em Java com integração via **OpenFeign**, tratamento de exceções e testes unitários.
@@ -31,7 +31,10 @@
 ---
 
 ## 🚀 Aprendizados recentes
-- Finalizei curso de **[Java com Spring Boot** - **Janauta Academy](https://hotmart.com/pt-br/club/clube-da-javanauta/product/4288798/certificate/98a30d95-a0d8-495d-9a0f-0cca34c605eb--1592553028/validate.)** 
+- Finalizei curso de **[Java com Spring Boot** - **Janauta Academy](https://hotmart.com/pt-br/club/clube-da-javanauta/product/4288798/certificate/98a30d95-a0d8-495d-9a0f-0cca34c605eb--1592553028/validate.)**
+- Finalizei curso de **[Testes com JUnit5, Mockito e Spring Boot (REST APIs)** - **Udemy](https://udemy-certificate.s3.amazonaws.com/pdf/UC-b5843025-68a4-456c-8a42-10cdc1b4f7d4.pdf)** **(Outubro/2025) 5h**
+- Finalizei curso de **[Java Unit Testing com Spring Boot 3, TDD, JUnit 5 e Mockito** - **Udemy](https://udemy-certificate.s3.amazonaws.com/pdf/UC-dbcf464c-572f-4742-95b7-88f641f64c1c.pdf)** **(Outubro/2025) – 17h**
+
 - Desenvolvendo projetos com **Spring Boot, OpenFeign e Docker**.  
 - Estudando **testes unitários com JUnit** e boas práticas de código.
 
