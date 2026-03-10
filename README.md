@@ -60,7 +60,7 @@
  
  **[SQL para Análise de Dados: Do básico ao avançado** - **Udemy](https://udemy-certificate.s3.amazonaws.com/pdf/UC-f720048a-41db-4ed5-8541-307cdb01f7c8.pdf)** **(Janeiro/2025)- 6h**
 
-Atualmente desenvolvendo projetos com **Java, Spring Boot, PostgreSQL, OpenFeign e Docker.**
+Atualmente desenvolvendo projetos com **Java, Spring Boot, PostgreSQL, OpenFeign e Docker.
 ---
 
 ## 📬 Contato
