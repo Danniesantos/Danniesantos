@@ -63,11 +63,6 @@
 Atualmente desenvolvendo projetos com **Java, Spring Boot, PostgreSQL, OpenFeign e Docker.**
 ---
 
-## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danniesantos&show_icons=true)
-
----
-
 ## 📬 Contato
 📧 danielardesantos@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/daniela-santos-49b434222/)
