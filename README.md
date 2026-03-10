@@ -64,7 +64,7 @@ Atualmente desenvolvendo projetos com **Java, Spring Boot, PostgreSQL, OpenFeign
 ---
 
 ## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danniesantos&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danniesantos&show_icons=true)
 
 ---
 
