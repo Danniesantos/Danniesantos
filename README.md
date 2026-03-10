@@ -53,8 +53,11 @@
 
 ## 🚀 Aprendizados recentes
  **[Java com Spring Boot** - **Janauta Academy](https://hotmart.com/pt-br/club/clube-da-javanauta/product/4288798/certificate/98a30d95-a0d8-495d-9a0f-0cca34c605eb--1592553028/validate.)**
+ 
  **[Testes com JUnit5, Mockito e Spring Boot (REST APIs)** - **Udemy](https://udemy-certificate.s3.amazonaws.com/pdf/UC-b5843025-68a4-456c-8a42-10cdc1b4f7d4.pdf)** **(Outubro/2025) 5h**
+ 
  **[Java Unit Testing com Spring Boot 3, TDD, JUnit 5 e Mockito** - **Udemy](https://udemy-certificate.s3.amazonaws.com/pdf/UC-dbcf464c-572f-4742-95b7-88f641f64c1c.pdf)** **(Outubro/2025) – 17h**
+ 
  **[SQL para Análise de Dados: Do básico ao avançado** - **Udemy](https://udemy-certificate.s3.amazonaws.com/pdf/UC-f720048a-41db-4ed5-8541-307cdb01f7c8.pdf)** **(Janeiro/2025)- 6h**
 
 Atualmente desenvolvendo projetos com **Java, Spring Boot, PostgreSQL, OpenFeign e Docker.**
